@@ -1,0 +1,15 @@
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.csproj.AssemblyReference.cache
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.AssemblyInfoInputs.cache
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.AssemblyInfo.cs
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Downloads\projetodotnet\bin\Debug\net6.0\projetodotnet.exe
+C:\Users\jhona\Downloads\projetodotnet\bin\Debug\net6.0\projetodotnet.deps.json
+C:\Users\jhona\Downloads\projetodotnet\bin\Debug\net6.0\projetodotnet.runtimeconfig.json
+C:\Users\jhona\Downloads\projetodotnet\bin\Debug\net6.0\projetodotnet.dll
+C:\Users\jhona\Downloads\projetodotnet\bin\Debug\net6.0\projetodotnet.pdb
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.dll
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\refint\projetodotnet.dll
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.pdb
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\projetodotnet.genruntimeconfig.cache
+C:\Users\jhona\Downloads\projetodotnet\obj\Debug\net6.0\ref\projetodotnet.dll
